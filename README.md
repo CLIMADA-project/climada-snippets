@@ -1,9 +1,10 @@
 # climada-snippets
 The purpose of this repository is to collect useful code snippets for CLIMADA.
 
-##How to use
+## How to use
 Anyone is free to use the code shared in this repository. 
-*Note that the code in this repository is not maintained or updated, so you may need to adjust the CLIMADA version you are using or update the code before using it.*
+
+**Note that the code in this repository is not maintained or updated, so you may need to adjust the CLIMADA version you are using or update the code before using it.**
 
 ## How to contribute
 Anyone (CLIMADA users and developers) is welcome to contribute code snippets. Before adding a snippet, please refer to the list below to check whether your contribution should go into this repository or another repository in [CLIMADA-project](https://github.com/CLIMADA-project). If you feel your snippet belongs here, please follow these contribution guidelines:
