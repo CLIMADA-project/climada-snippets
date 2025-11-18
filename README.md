@@ -1,7 +1,7 @@
 # climada-snippets
 The purpose of this repository is to collect useful code snippets for CLIMADA.
 
-## How to use
+##How to use
 Anyone is free to use the code shared in this repository. 
 *Note that the code in this repository is not maintained or updated, so you may need to adjust the CLIMADA version you are using or update the code before using it.*
 
