@@ -20,3 +20,9 @@ Anyone (CLIMADA users and developers) is welcome to contribute code snippets. Be
 * new CLIMADA Core or Petals modules
 * code accompanying a CLIMADA-related publication (please refer to [climada_papers](https://github.com/CLIMADA-project/climada_papers))
 
+| Name | Content | Climada version |
+|-------------|-----------|-----------|
+| 001_accessing_GEE_data.ipynb | Accessing and processing Google Earth Engine data for use in CLIMADA |NA|
+| | | | 
+| | | | 
+| | | | 
