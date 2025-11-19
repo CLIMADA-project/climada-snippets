@@ -23,7 +23,7 @@ Anyone (CLIMADA users and developers) is welcome to contribute code snippets. Be
 
 | Name | Content | Climada version | Author(s) |
 |-------------|-----------|-----------|-----------|
-| 001_accessing_GEE_data.ipynb | Accessing and processing Google Earth Engine data for use in CLIMADA |NA| |
+| 001_accessing_GEE_data.ipynb | Accessing and processing Google Earth Engine data for use in CLIMADA |3.3.0| |
 | | | | |
 | | | | |
 | | | | |
