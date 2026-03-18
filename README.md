@@ -24,6 +24,7 @@ Anyone (CLIMADA users and developers) is welcome to contribute code snippets. Be
 | Name | Content | Climada version | Author(s) |
 |-------------|-----------|-----------|-----------|
 | 001_accessing_GEE_data.ipynb | Accessing and processing Google Earth Engine data for use in CLIMADA |3.3.0| |
+| 002_ITA_WS_FL_HL_combine_demo.ipynb | CLIMADA yearsets and how to combine them |6.1.0| D. Bresch, V. Gebhart, C. Steinmann, WCR groups|
 | | | | |
 | | | | |
 | | | | |
