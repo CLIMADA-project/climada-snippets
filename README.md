@@ -23,8 +23,8 @@ Anyone (CLIMADA users and developers) is welcome to contribute code snippets. Be
 
 | Name | Content | Climada version | Author(s) |
 |-------------|-----------|-----------|-----------|
-| 001_accessing_GEE_data.ipynb | Accessing and processing Google Earth Engine data for use in CLIMADA |3.3.0| |
-| 002_combining_impact_yearsets.ipynb | CLIMADA yearsets and how to combine them |6.1.0| D. Bresch, V. Gebhart, C. Steinmann, WCR groups|
-| 003_impact_forecast_plots.ipynb | Functionality to impact forecasts | TBD (must inlcude new forecast class) | V. Gebhart |
+| 001_accessing_GEE_data.ipynb | Accessing and processing Google Earth Engine data for use in CLIMADA | 3.3.0 | |
+| 002_combining_impact_yearsets.ipynb | CLIMADA yearsets and how to combine them | 6.1.0 | D. Bresch, V. Gebhart, C. Steinmann, WCR groups|
+| 003_impact_forecast_plots.ipynb | Functionality to impact forecasts | > 6.1.* & python >= 3.12 | V. Gebhart |
 | | | | |
 | | | | |
